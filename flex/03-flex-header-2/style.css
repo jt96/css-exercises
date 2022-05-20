@@ -38,6 +38,11 @@ body {
   font-style: italic;
 }
 
+.bot {
+  display: flex;
+  flex-direction: row;
+}
+
 button {
   border: none;
   border-radius: 8px;
